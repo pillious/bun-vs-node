@@ -6,7 +6,7 @@
 
 ### Install Bun [(installation guide)](https://bun.sh/docs/installation)
 
-### Install hyperlink [(GitHub Repo)](https://github.com/sharkdp/hyperfine)
+### Install hyperfine [(GitHub Repo)](https://github.com/sharkdp/hyperfine)
 
 ### Create a tmp/ folder in the root of the project.
 ```sh
