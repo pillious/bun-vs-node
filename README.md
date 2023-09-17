@@ -26,7 +26,7 @@ node /path/to/script
 
 ## Run the benchmark with hyperlink:
 ```sh
-hyperlink `bun /path/to/script` `node /path/to/script`
+hyperlink 'bun /path/to/script' 'node /path/to/script'
 ```
 
 
