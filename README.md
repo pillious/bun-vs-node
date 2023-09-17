@@ -29,5 +29,10 @@ node /path/to/script
 hyperlink 'bun /path/to/script' 'node /path/to/script'
 ```
 
+```sh
+# With --warmup
+hyperlink --warmup 5 'bun /path/to/script' 'node /path/to/script'
+```
+
 
 
