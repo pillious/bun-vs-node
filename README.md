@@ -24,14 +24,14 @@ bun /path/to/script
 node /path/to/script
 ```
 
-## Run the benchmark with hyperlink:
+## Run the benchmark with hyperfine:
 ```sh
-hyperlink 'bun /path/to/script' 'node /path/to/script'
+hyperfine 'bun /path/to/script' 'node /path/to/script'
 ```
 
 ```sh
 # With --warmup
-hyperlink --warmup 5 'bun /path/to/script' 'node /path/to/script'
+hyperfine --warmup 5 'bun /path/to/script' 'node /path/to/script'
 ```
 
 
