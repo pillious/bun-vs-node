@@ -1,5 +1,5 @@
 import Bun from 'bun';
-import payload from '../data/payload-bun';
+import payload from '../data/payload-es6';
 
 const HOST = '127.0.0.1';
 const PORT = 5000;

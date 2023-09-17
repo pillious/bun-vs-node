@@ -6,8 +6,3 @@ const main = async () => {
 };
 
 main();
-
-// // console.log(deepCopy(obj));
-// const deepCopy = (obj) => {
-//     return structuredClone(obj);
-// };

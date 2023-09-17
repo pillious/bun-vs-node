@@ -1,5 +1,7 @@
 # Comparing Bun 1.0 and Node.js Performance
 
+! NOTE: Bun 1.0 doesn't fully supported Windows yet (if on windows, use WSL).
+
 ## Setup:
 
 ### Install Node.js (version 17+ required)
